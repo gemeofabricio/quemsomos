@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: white;
+    margin: 0;
+}
+img{
+    max-width: 200px;
+    height: 200px;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+}
+
+.bordersomos{
+    border-bottom: 2px solid white;
+}
